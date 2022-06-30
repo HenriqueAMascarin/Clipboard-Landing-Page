@@ -18,15 +18,11 @@ h1{
     padding: 1.7em 3vh 0em;
     font-size: clamp(2.3rem, 1.5vw, 2.5rem); 
 }
-h2{
+h2, h3, h4, h5{
     color: hsl(210, 10%, 33%);
     padding: 1.7em 3vh 0em;
-    font-size: clamp(2.3rem, 1.5vw, 2.5rem); 
-}
-h3{
-    color: hsl(210, 10%, 33%);
-    padding: 1.3em 3vh 0em;
-    font-size: clamp(1.5rem, 1.5vw, 1.7rem); 
+    margin-bottom: 0;
+    font-size: clamp(1.8rem, 1.5vw, 2.3rem); 
 }
 
 p{
@@ -231,7 +227,7 @@ ul:hover{
     .flex-keepTrack{
         display: flex;
     }
-    .flex-keepTrack span{
+    .flex-keepTrack div{
         justify-content: center;
         text-align: left;
         align-items: center;
