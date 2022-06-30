@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/computer-ver.png" width="400">
+![](/images/desktop-version.png)
 
 ### Links
 
