@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/computer-ver.png)
+<img src="images/computer-ver.png" width="200">
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://clipboard-landing-page-works.vercel.app](https://your-live-site-url.com)
+- Live Site URL: [https://clipboard-landing-page-works.vercel.app](https://clipboard-landing-page-works.vercel.app)
 
 ### Built with
 
