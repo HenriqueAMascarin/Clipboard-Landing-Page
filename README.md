@@ -29,8 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-and-css-grid-aIWawy0J-3
-- Live Site URL: https://clipboard-landing-page-works.vercel.app](https://clipboard-landing-page-works.vercel.app
-
+- Live Site URL: https://clipboard-landing-page-works.vercel.app
 ### Built with
 
 - Semantic HTML5 markup
